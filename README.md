@@ -8,7 +8,7 @@ Remove completed todos: Completed todos are automatically removed from the list.
 
 How to Use:
 
-Clone the repository: git clone https://github.com/your_username/todo_app
+Clone the repository: git clone https://github.com/SorinaO/todo_app
 Install dependencies: pip install -r requirements.txt
 Run the app: streamlit run app.py
 Technical Details:
